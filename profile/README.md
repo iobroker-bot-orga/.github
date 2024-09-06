@@ -8,8 +8,11 @@ t.b.d.
 
 ## List of Repositories
 
-### adapter-history
+### [adapter-history](https://github.com/iobroker-bot-orga/adapter-history)
 
-### check-tasks
 
-### iobbot-controller
+### [check-tasks](https://github.com/iobroker-bot-orga/check-tasks)
+
+
+### [iobbot-controller](https://github.com/iobroker-bot-orga/iobbot-controller)
+
