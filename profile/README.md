@@ -8,4 +8,6 @@ t.b.d.
 
 ## List of Repositories
 
-t.b.d.
+- adapter-history
+- check-tasks
+- iobroker-bot
