@@ -1,3 +1,4 @@
 # IOBROKER BOT ORGANIZATION
 
-This organization is the home of [iobroker-bot](https://github.com/ioBroker-Bot) and all related repositories.
+This organization is the home of the [ioBroker-Bot](https://github.com/ioBroker-Bot, a simple bot performing some housekeeping for ioBroker administration and all related repositories.
+
