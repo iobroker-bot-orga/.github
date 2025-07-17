@@ -10,6 +10,7 @@ t.b.d.
 
 ### [adapter-history](https://github.com/iobroker-bot-orga/adapter-history)
 
+### [adapter-announce](https://github.com/iobroker-bot-orga/announce)
 
 ### [check-tasks](https://github.com/iobroker-bot-orga/check-tasks)
 
